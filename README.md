@@ -41,7 +41,8 @@ Tutorial - Instalacion RVM/RUBY
 	
 >> ![Alt text](./03.jpeg)
 >
-	3. Ejecutamos ***[[$ ruby myapp.rb]]*** y pruebo en el navegador: ***[[http://localhost:4567]]***
+
+    3. Ejecutamos ***[[$ ruby myapp.rb]]*** y pruebo en el navegador: ***[[http://localhost:4567]]***
 
 
 >> ![Alt text](./04.jpeg)
