@@ -4,6 +4,7 @@ Tutorial - Instalacion RVM/RUBY
 * Instalar RVM
 	1. Antes de instalar RVM necesitaremos instalar algunos paquetes:
 >> ***$ sudo apt-get install build-essential git-core curl***
+>
 
 	2. Ahora instalaremos [RVM](http://rvm.io "RVM") , como nos indica en su pagina web
 
