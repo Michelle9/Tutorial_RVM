@@ -30,6 +30,10 @@ Tutorial
 	1. ***$ gem update --system***
 	2. ***$ gem sources -a http://gemcutter.org***
 
+* Instalar gem Twitter.
+
+	1. ***$ gem install twitter***
+
 * Instalar y comprobar la gema Sinatra.
 
 	1. ***$ gem install sinatra***
