@@ -8,7 +8,7 @@ Tutorial - Instalacion RVM/RUBY
 
 	2. Ahora instalaremos [RVM](http://rvm.io "RVM") , como nos indica en su pagina web
 
->> ![Alt text](./01.jpeg)
+>> ![Alt text](./images/01.jpeg)
 >
 >> Podemos ver la version de RVM con el comando ***"rvm -v"***
 >
@@ -23,7 +23,7 @@ Tutorial - Instalacion RVM/RUBY
 >
 >> Con el comando ***[[$ rvm list]]*** veremos las versiones de Ruby instaladas
 >
->> ![Alt text](./02.jpeg)
+>> ![Alt text](./images/02.jpeg)
 >
 
 * Actualizar gemas
@@ -40,13 +40,13 @@ Tutorial - Instalacion RVM/RUBY
 	1. ***$ gem install sinatra***
 	2. Creamos el fichero "myapp.rb"
 	
->> ![Alt text](./03.jpeg)
+>> ![Alt text](./images/03.jpeg)
 >
 
     3. Ejecutamos ***[[$ ruby myapp.rb]]*** y pruebo en el navegador: ***[[http://localhost:4567]]***
 
 
->> ![Alt text](./04.jpeg)
+>> ![Alt text](./images/04.jpeg)
 >
 
 Jhoanmary Prz Fariña
